@@ -25,7 +25,7 @@ https://api.escuelajs.co/api/v1/products
 
 ## Project Folder Structure
 
-![Project Structure](images/folder-structure.png)
+![Project Structure](/structure.png)  
 
 
 
